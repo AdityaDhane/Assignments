@@ -1,0 +1,7 @@
+sum = 0
+i = 1
+if i>=n goto 7
+i = i + 1
+sum = sum + i 
+goto 3
+sum = 1

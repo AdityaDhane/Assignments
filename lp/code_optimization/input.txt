@@ -1,0 +1,13 @@
+y = z + w
+c = 0
+c = c + 1
+a = a * 10
+goto 7
+a = 12
+if c < 10 goto 3
+y = 0
+a = 5*x
+if a>4 goto 12
+a = 1
+goto 8
+a = 5
